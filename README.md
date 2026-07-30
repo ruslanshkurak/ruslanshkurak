@@ -33,12 +33,3 @@ I'm a Backend Developer focused on building high-performance systems, microservi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruslanshkurak&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="Ruslan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanshkurak&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
-</p>
